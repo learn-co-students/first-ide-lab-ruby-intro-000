@@ -1,4 +1,4 @@
-hello world
+hello World!
 
 <div class="readme-content-test--hide-when-active">
 
