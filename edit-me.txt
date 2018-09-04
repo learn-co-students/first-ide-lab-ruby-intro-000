@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 legal
+=======
+legal
+>>>>>>> e60082590da2d86361883f89965ce8d6a5a9d8a7
