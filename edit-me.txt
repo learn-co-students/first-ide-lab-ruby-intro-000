@@ -1,0 +1,3 @@
+def edit(name)
+  return "#{name} made an edit!"
+end
