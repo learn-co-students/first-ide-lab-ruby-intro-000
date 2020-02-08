@@ -1,2 +1,2 @@
 Hello, World!
-This is second editing of edit-me.txt
+This is the second editing of the file named edit-me.txt
