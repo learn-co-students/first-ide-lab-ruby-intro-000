@@ -1,0 +1,2 @@
+Hello, World!
+Today is my first day at learning Ruby 2.6 at the Flatiron School.
