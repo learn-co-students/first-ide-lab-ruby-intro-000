@@ -1,0 +1,1 @@
+Ruby is a type of language that instructs a computer on how to adjust data sets. 
