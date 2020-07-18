@@ -1,1 +1,6 @@
-Hello, World! 
+Hello, World!
+1s
+pwd
+ruby hello world.rb
+hello world.rb
+Hello World!
