@@ -1,2 +1,2 @@
-Hello, world!
-Hellow, world!
+$ hello_world.rb
+hello world!
